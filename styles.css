@@ -1,2 +1,36 @@
 
 /* Your CSS Code here. */
+
+.Navbar{
+    display: flex;
+    color: rgb(40, 72, 72);
+    background-color: azure;
+    padding: 5px 10px;
+    margin: 0;
+}
+Header{
+    text-align: left;
+}
+
+nav{
+
+    background-color: gray;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-content: stretch;
+    align-items: baseline;
+}
+
+#nav-actor{
+    color:blue;
+}
+#nav-quote{
+    color:blue;
+}
+h4{
+    color: brown;
+}
+footer{
+    color: red;
+}
